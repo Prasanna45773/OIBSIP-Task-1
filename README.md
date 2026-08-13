@@ -38,7 +38,6 @@ Price per Unit had a strong positive correlation with Total Amount.
 
 ▶️ How to Run the Project
 1. Clone the repository
-git clone https://github.com/your-username/Retail-Sales-EDA.git
 2. Navigate to the project folder
 cd Retail-Sales-EDA
 3. Install required libraries
